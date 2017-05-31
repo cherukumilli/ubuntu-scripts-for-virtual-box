@@ -3,13 +3,11 @@ Ubuntu clean up scripts for virtual box
 
 ## Usage
 ```
-wget https://raw.githubusercontent.com/cherukumilli/ubuntu-scripts-for-virtual-box/master/minimal-ubuntu.sh
-
-chmod 755 minimal-ubuntu.sh
-
-./minimal-ubuntu.sh
-
+wget https://raw.githubusercontent.com/cherukumilli/ubuntu-scripts-for-virtual-box/master/minimal-ubuntu.sh &&
+chmod 755 minimal-ubuntu.sh &&
+./minimal-ubuntu.sh &&
 echo "DONE"
+
 ```
 
 ## Script description
