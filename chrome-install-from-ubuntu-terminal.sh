@@ -7,4 +7,4 @@ sudo apt-get update &&
 sudo apt-get install google-chrome-stable &&
 # if you run into dependency problems then run the following commands
 sudo apt-get install -f &&
-sudo apt-get update &&
+sudo apt-get update
